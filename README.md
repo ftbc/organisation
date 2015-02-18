@@ -10,4 +10,6 @@ Rendez vous dans [l'issue #2](https://github.com/FribourgTechBookClub/organisati
 
 ## Se faire ajouter au groupe
 
-Si vous voulez être ajouté au groupe, ouvrez une issue pour le demander :) N'hésitez pas à participer même si vous n'êtes pas sur de venir toutes les semaines, tant que les chapitres de la dite semaine sont lu vous êtes la bienvenue au séance ! (Si vous avez déjà lu le livre, rafraichissez vous la mémoire avant de venir ;))
+Si vous voulez être ajouté·e au groupe, ouvrez une issue pour le demander :)
+
+N'hésitez pas à participer même si vous n'êtes pas sur de pouvoir venir toutes les semaines, tant que les chapitres de la dite semaine sont lu vous êtes l·e·a bienvenu·e à la séance ! (Si vous avez déjà lu le livre, rafraichissez vous la mémoire avant de venir ;))
