@@ -1,12 +1,14 @@
 # Fribourg Tech Book Club
 
-## Choix du premier livre
+## Livre en cours
 
-Rendez vous dans [l'issue #1](https://github.com/FribourgTechBookClub/organisation/issues/1) pour discuter le choix du premier livre.
+Le premier livre [a été choisi](https://github.com/FribourgTechBookClub/organisation/issues/1), et il s'agit de [The Pragmatic Programmer: From Journeyman to Master](https://pragprog.com/book/tpp/the-pragmatic-programmer).
+
+La lecture n'a pas encore débutée.
 
 ## Tentative de début
 
-Rendez vous dans [l'issue #2](https://github.com/FribourgTechBookClub/organisation/issues/2) pour discuter du choix du jour de rencontre, et de la première réunion.
+Rendez vous dans [l'issue #2](https://github.com/FribourgTechBookClub/organisation/issues/2) pour discuter du choix du jour de la première réunion.
 
 ## Se faire ajouter au groupe
 
