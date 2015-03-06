@@ -39,23 +39,19 @@ Quelques exemples :
 
 - [The Little Schemer](http://mitpress.mit.edu/books/little-schemer),
   livre fondamental sur un langage rare: Scheme.
-
 - [The Pragmatic Programmer: From Journeyman to
   Master](https://pragprog.com/book/tpp/the-pragmatic-programmer), livre lié au
   métier de développeur.
-
 - [The Timeless Way of
   Building](http://en.wikipedia.org/wiki/The_Timeless_Way_of_Building) & [A
   Pattern Language](http://en.wikipedia.org/wiki/A_Pattern_Language), livre
   fondamental et lié. Oui il s'agit de livres d'architecture/urbanisme, mais
   ils sont la source d'inspiration des "design pattern" utilisé en
   développement.
-
 - [Pragmatic Thinking and Learning: Refactor Your
   Wetware](https://pragprog.com/book/ahptl/pragmatic-thinking-and-learning),
   livre sur un sujet lié (l'apprentissage dans le cadre du développement
   logiciel)
-
 - [Structure and Interpretation of Computer
   Programs](http://mitpress.mit.edu/sicp/), livre fondamental utilisant un
   langage rare: Scheme/Lisp.
