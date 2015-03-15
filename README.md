@@ -1,17 +1,22 @@
 # Fribourg Technical Book Club
 
-## Prochaine séance
-
-La première séance est fixée au **jeudi 12 mars 2015 à 18h** au [Colab de
+Nous nous rassemblons tous les mardi à 18h au [Colab de
 Fribourg](http://colab-fribourg.ch).
-
-Elle concerne les chapitres 1 et 2 de [The Pragmatic
-Programmer](#livre-en-cours)
 
 ## Livre en cours
 
 [The Pragmatic Programmer: From Journeyman to
 Master](https://pragprog.com/book/tpp/the-pragmatic-programmer).
+
+## Planning
+
+- ~~Séance #1, **jeudi 12 mars 2015**, chapitre 1 & 2~~ :white_check_mark:
+- Séance #2, **mardi 17 mars 2015**, chapitre 2.9 à 3
+- Séance #3, **mardi 24 mars 2015**, chapitre 4
+- Séance #4, **mardi 31 mars 2015**, chapitre 5
+- Séance #5, **mardi 7 avril 2015**, chapitre 6
+- Séance #6, **mardi 14 avril 2015**, chapitre 7
+- Séance #7, **mardi 21 avril 2015**, chapitre 8
 
 ## FAQ
 
