@@ -11,7 +11,7 @@ Master](https://pragprog.com/book/tpp/the-pragmatic-programmer).
 ## Planning
 
 - ~~Séance #1, **jeudi 12 mars 2015**, chapitre 1 & 2~~ :white_check_mark:
-- Séance #2, **mardi 17 mars 2015**, chapitre 2.9 à 3
+- ~~Séance #2, **mardi 17 mars 2015**, chapitre 2.9 à 3~~ :white_check_mark:
 - Séance #3, **mardi 24 mars 2015**, chapitre 4
 - Séance #4, **mardi 31 mars 2015**, chapitre 5
 - Séance #5, **mardi 7 avril 2015**, chapitre 6
