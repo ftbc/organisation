@@ -13,8 +13,8 @@ Master](https://pragprog.com/book/tpp/the-pragmatic-programmer).
 - ~~Séance #1, **jeudi 12 mars 2015**, chapitre 1 & 2~~ :white_check_mark:
 - ~~Séance #2, **mardi 17 mars 2015**, chapitre 2.9 à 3~~ :white_check_mark:
 - ~~Séance #3, **mardi 31 mars 2015**, chapitre 4~~ :white_check_mark:
-- Séance #4, **lundi 6 avril 2015**, chapitre 5
-- Séance #5, **mardi 14 avril 2015**, chapitre 6
+- ~~Séance #4, **lundi 6 avril 2015**, chapitre 5~~ :white_check_mark:
+- ~~Séance #5, **mardi 14 avril 2015**, chapitre 6~~ :white_check_mark:
 - Séance #6, **mardi 21 avril 2015**, chapitre 7
 - Séance #7, **mardi 28 avril 2015**, chapitre 8
 
