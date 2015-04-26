@@ -21,7 +21,7 @@ Master](https://pragprog.com/book/tpp/the-pragmatic-programmer) (TPP) de Andrew 
 - Séance #11, **mardi 25 mai 2015**, UC chapitre 5
 - Séance #12, **mardi 2 juin 2015**, UC chapitre 6
 - Séance #13, **mardi 9 juin 2015**, UC chapitre 7
-- Séance #14, **mardi 16 juin 2015**, UC chapitre 8
+- Séance #14, **mardi 16 juin 2015**, UC chapitre 8 + choix du livre suivant
 - Séance #15, **mardi 23 juin 2015**, UC chapitre 9
 
 ## Séances passées
