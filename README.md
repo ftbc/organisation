@@ -14,7 +14,6 @@ Master](https://pragprog.com/book/tpp/the-pragmatic-programmer) (TPP) de Andrew 
 
 ## Planning
 
-- Séance #7, **mardi 28 avril 2015**, TPP chapitre 8
 - Séance #8, **mardi 4 mai 2015**, UC chapitre 2
 - Séance #9, **mardi 11 mai 2015**, UC chapitre 3
 - Séance #10, **mardi 18 mai 2015**, UC chapitre 4
@@ -32,6 +31,7 @@ Master](https://pragprog.com/book/tpp/the-pragmatic-programmer) (TPP) de Andrew 
 - ~~Séance #4, **lundi 6 avril 2015**, TPP chapitre 5~~ :white_check_mark:
 - ~~Séance #5, **mardi 14 avril 2015**, TPP chapitre 6~~ :white_check_mark:
 - ~~Séance #6, **mardi 21 avril 2015**, TPP chapitre 7~~ :white_check_mark:
+- ~~Séance #7, **mardi 28 avril 2015**, TPP chapitre 8~~ :white_check_mark:
 
 ## FAQ
 
