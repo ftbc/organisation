@@ -7,6 +7,10 @@ Fribourg](http://colab-fribourg.ch).
 
 [Understanding Computation](http://computationbook.com/) (UC) de Tom Stuart.
 
+## Livre suivant
+
+[The Leprechauns of Software Engineering ](https://leanpub.com/leprechauns) (LSE) de Laurent Bossavit.
+
 ## Livres passés
 
 [The Pragmatic Programmer: From Journeyman to
@@ -14,9 +18,8 @@ Master](https://pragprog.com/book/tpp/the-pragmatic-programmer) (TPP) de Andrew 
 
 ## Planning
 
-- Séance #13, **mardi 16 juin 2015**, UC chapitre 7
-- Séance #14, **mardi 23 juin 2015**, UC chapitre 8 + choix du livre suivant
-- Séance #15, **mardi 30 juin 2015**, UC chapitre 9
+- Séance #15, **mardi 7 juillet 2015**, UC chapitre 9
+- Séance #16, **mardi 14 juillet 2015**, LSE chapitre 1 (voir 2, ils ont l'air court)
 
 ## Séances passées
 
@@ -32,6 +35,8 @@ Master](https://pragprog.com/book/tpp/the-pragmatic-programmer) (TPP) de Andrew 
 - ~~Séance #10, **mardi 19 mai 2015**, UC chapitre 4~~ :white_check_mark:
 - ~~Séance #11, **mardi 2 juin 2015**, UC chapitre 5~~ :white_check_mark:
 - ~~Séance #12, **mardi 9 juin 2015**, UC chapitre 6~~ :white_check_mark:
+- ~~Séance #13, **mardi 16 juin 2015**, UC chapitre 7~~ :white_check_mark:
+- ~~Séance #14, **mardi 30 juin 2015**, UC chapitre 8 + choix du livre suivant~~ :white_check_mark:
 
 ## FAQ
 
